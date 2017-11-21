@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /RUNNING_PID
 /logs/
 /project/*-shim.sbt
@@ -31,3 +32,7 @@ RUNNING_PID
 *#
 newschema.sql
 *.class
+=======
+*.class
+*.log
+>>>>>>> 2ffa087a30f1289203447f51ab1b13538386b957
